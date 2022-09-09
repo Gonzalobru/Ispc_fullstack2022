@@ -6,7 +6,6 @@ Somos un Equipo de trabajo del ISPC provenientes de diferentes aulas con el fin 
 
 ## Los Integrantes del equipo Somos:
 
-Francisco Ignacio Junco Lasagno	<br>
 Matías	Boiero	<br>
 Jonatan Acuña 	<br>
 Sofia Goycochea	<br>
