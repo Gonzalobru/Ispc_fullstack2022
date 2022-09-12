@@ -12,7 +12,6 @@ Jonatan Acuña 	<br>
 Sofia Goycochea	<br>
 Gabriel	Farias <br>
 Antonio Armando	Alvarado <br>
-Francisco	Junco Lasagno <br>
 Silvina	Palacio <br>
 Flavia	Pieroni	<br>
 Gonzalo Bruzzo <br>
