@@ -11,7 +11,7 @@ Matías	Boiero	<br>
 Jonatan Acuña 	<br>
 Sofia Goycochea	<br>
 Gabriel	Farias <br>
-Antonio Armando	Alvarado <br>
+Jesica Amaya <br>
 Silvina	Palacio <br>
 Flavia	Pieroni	<br>
 Gonzalo Bruzzo <br>
