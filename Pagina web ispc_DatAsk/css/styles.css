@@ -1,0 +1,195 @@
+body {
+  font-family: Montserrat;
+}
+
+.container {
+  padding: 0% 5% 30%;
+}
+
+#titulo {
+
+  background-image: url(./imagenes/portada_1.jpg);
+   background-repeat: no-repeat;
+}
+
+#titulo h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.8rem;
+  line-height: 1.5;
+  padding-top: 160px;
+}
+
+
+.navbar-titulo{
+  color:#FBD341;
+}
+
+.titulo-principal{
+  color:#fff;
+  font-size: 60px;
+}
+
+#navbar-menu a {
+  font-size: 1.2rem;
+  color:#F1FFAB;
+}
+
+#titulo a:hover{
+  color:#FBD341;
+  text-decoration: underline;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+}
+.navbar-brand:hover{
+  color:#FFCE45;
+}
+
+.nav-item {
+  margin: 0px 18px 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: light;
+  font-size: 1.2rem;
+}
+
+.titulos-caracteristicas {
+  padding: 0 5% 0 5%;
+}
+
+/* CARACTERISTICAS */
+#caracteristicas {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #EAEAEA;
+  position: relative;
+
+}
+
+#caracteristicas h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #FFCE45;
+}
+
+#caracteristicas p {
+  color: #8f8f8f;
+}
+
+.iconos-caracteristicas {
+  font-size: 80px;
+  color: #002E94;
+  padding-bottom: 15px;
+}
+
+.iconos-caracteristicas:hover {
+  color: #1746A2;
+}
+
+/* carrousel */
+#carrousel {
+  text-align: center;
+  background-color: #787A91;
+  color: white;
+}
+
+#carrousel img {
+  margin-top: 30px;
+
+  width: 50%;
+  margin: 50px;
+}
+
+#carrousel h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 2% 6%;
+}
+
+
+/* Blog/secciones */
+
+.publicacion p{
+	margin: 0px;
+	color: #5A6169;
+	font-size: 16px;
+	line-height: 24px;
+	padding: 4px 10px 10px 10px ;
+}
+
+#blog {
+	padding-top: 70px;
+  background-color: #EFEFEF;
+  margin-bottom: 10px;
+
+}
+#blog container{
+  padding-bottom: 10px;
+}
+
+#blog img{
+  width:80%;
+  height:80% ;
+  }
+
+#blog h4{
+	font-size: 23px;;
+	margin: 0px;
+	padding: 10px; /*ajusto el texto respecto de los margenes.. si pongo  solo 10px= 10px 10px 10px 10px*/
+}
+#blog h3{
+	font-size: 45px;
+ text-align: center;
+  font-weight: bold;
+	margin-top: 20px;
+  margin-bottom: 20px;
+	padding: 10px; /*ajusto el texto respecto de los margenes.. si pongo  solo 10px= 10px 10px 10px 10px*/
+}
+
+/* Ingresar */
+.ingresar-body{
+  background-color:#1746A2;
+}
+
+/* Registrarse */
+.Registrarse-body{
+  background-color:#1746A2;
+}
+
+/* CONTACTO */
+
+.contacto-body{
+  background-color:#1746A2;
+}
+.contacto{
+  color:#fff;
+  padding: 1% 1%
+}
+
+.contacto h1{
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+  margin: 0% 0 0%;
+  background-color: #fff;
+}
+
+/* CSS RESPONSIVE */
+@media (max-width:990px) {
+  #titulo{
+    text-align: center;
+  }
