@@ -9,10 +9,8 @@ Somos un Equipo de trabajo del ISPC provenientes de diferentes aulas con el fin 
 Francisco Ignacio	Junco Lasagno <br>
 Matías	Boiero	<br>
 Jonatan Acuña 	<br>
-Sofia Goycochea	<br>
 Gabriel	Farias <br>
 Jesica Amaya <br>
-Silvina	Palacio <br>
 Flavia	Pieroni	<br>
 Gonzalo Bruzzo <br>
 
